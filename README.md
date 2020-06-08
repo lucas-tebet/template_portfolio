@@ -4,12 +4,14 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Lucas Tebet
+<sub>*Data Scientist*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Professional with experience in national and multinational companies, in pulp and paper, automotive, industrial automation and technology segments. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Graduated in Mechanical Engineering in Instituto Mauá de Tecnologia and a graduate course in Insper with a Marketing specialization. On going courses focused on programming and Data Science, such as Pyhton and SQL.
+
+Avanced English, intermediate Spanish and basic German.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
